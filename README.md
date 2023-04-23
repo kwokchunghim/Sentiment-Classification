@@ -92,7 +92,7 @@ tend to perform better than traditional Bag-of-Words approaches. There are sever
 
 
 
-##References
+## References
 [Devlin et al., 2018] Devlin, J., Chang, M., Lee, K., and Toutanova, K. (2018). BERT: pre-training of
 deep bidirectional transformers for language understanding. CoRR, abs/1810.04805.
 [Goldberg and Levy, 2014] Goldberg, Y. and Levy, O. (2014). word2vec explained: deriving mikolov
@@ -104,7 +104,6 @@ Zettlemoyer, L., and Stoyanov, V. (2019). Roberta: A robustly optimized bert pre
 cite arxiv:1907.11692.
 [Pennington et al., 2014] Pennington, J., Socher, R., and Manning, C. D. (2014). Glove: Global
 vectors for word representation. In EMNLP, volume 14, pages 1532–1543.
-4
 [Ramos, 1999] Ramos, J. (1999). Using tf-idf to determine word relevance in document queries.
 [Reimers and Gurevych, 2019] Reimers, N. and Gurevych, I. (2019). Sentence-BERT: Sentence embed-
 dings using Siamese BERT-networks. In Proceedings of the 2019 Conference on Empirical Methods
